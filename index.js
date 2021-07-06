@@ -12,7 +12,7 @@ const fighting = (tiger, wolf) => {
     return;
   }
  
-  console.log('Tiger and Wolf have same strength');
+  console.log('Tiger and Wolf have same strength/kuat');
 }
  
 const tiger = new Tiger();
